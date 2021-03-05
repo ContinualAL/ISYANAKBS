@@ -3,7 +3,7 @@ Continual Learning via Inter-Task Synaptic Mapping submitted to Knowledge Based 
 
 Learning from streaming tasks leads a model to catastrophically erase unique
 experiences it absorbs from previous episodes. While regularization techniques
-such as LWF, SI, EWC have proven themselves as an eective avenue to over-
+such as LWF, SI, EWC have proven themselves as an effective avenue to over-
 come this issue by constraining important parameters of old tasks from changing
 when accepting new concepts, these approaches do not exploit common infor-
 mation of each task which can be shared to existing neurons. As a result, they
