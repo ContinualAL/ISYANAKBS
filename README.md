@@ -1,5 +1,5 @@
 # ISYANA_KBS
-Continual Learning via Inter-Task Synaptic Mapping submitted to Knowledge Based Systems
+F. Mao, W.W. Weng, M. Pratama, E. Yapp Kien Yee Continual Learning via Inter-Task Synaptic Mapping submitted to Knowledge Based Systems
 
 Learning from streaming tasks leads a model to catastrophically erase unique
 experiences it absorbs from previous episodes. While regularization techniques
